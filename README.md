@@ -7,6 +7,10 @@ My name is Michael Terrano and I'm excited to incorporate the knowledge and skil
 <br>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mterrano1&hide=stars,issues,contribs)
+
+<br>
+
 - 🌱 I’m currently focusing on expanding my knowledge of Kubernetes, Linux, Docker, AWS, Terraform, and microservices architecture.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cterrano/) | [Email](mailto:mterrano1@yahoo.com)
 - ⚡ Fun fact: When I'm not taking courses on Udemy, Pluralsight, Youtube, or Educative.io, I enjoy cooking, golfing, watching sports, and spending time with my beautiful wife and our two boys.
@@ -30,6 +34,8 @@ My name is Michael Terrano and I'm excited to incorporate the knowledge and skil
 
 <!--
 **mterrano1/mterrano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mterrano1)
 
 Here are some ideas to get you started:
 

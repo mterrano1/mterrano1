@@ -1,6 +1,6 @@
 ### Hello 👋 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQFAm8aImtuLCQ/profile-displaybackgroundimage-shrink_350_1400/0/1560879108257?e=1675296000&v=beta&t=CPjoEyukF4btxR2k6Fqg1IcxSPznrQ20PuVXzTfoKWU">
+  <img src="[https://media-exp1.licdn.com/dms/image/C5616AQFAm8aImtuLCQ/profile-displaybackgroundimage-shrink_350_1400/0/1560879108257?e=1675296000&v=beta&t=CPjoEyukF4btxR2k6Fqg1IcxSPznrQ20PuVXzTfoKWU](https://media.licdn.com/dms/image/C5616AQFAm8aImtuLCQ/profile-displaybackgroundimage-shrink_350_1400/0/1560879108257?e=1684972800&v=beta&t=WHeHV5oFH3Chi5ONInjMOGZ0wPa7RfymWFUUxkXuG2E)">
 </p>
 My name is Michael Terrano and I'm excited to incorporate the knowledge and skills that I've developed throughout a long career in sales with my technical knowledge of full-stack software development, cloud computing, and DevOps methodologies as I begin my new career as a Software Engineer!
 
